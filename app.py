@@ -105,7 +105,7 @@ class Bot(Client):
 
 
 if __name__ == "__main__":
-    client = Bot("ttokiniainatoavina3@gmail.com","jakal000003")
+    client = Bot("","")
     client.listen()
 
     
